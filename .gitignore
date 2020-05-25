@@ -1,0 +1,4 @@
+node_modules/
+# j'ai enlevé le.env du gitignore parce que j'heberge mon api avec heroku
+# .env
+node_modules/@babel/helper-builder-binary-assignment-operator-visitor/lib/index.js
